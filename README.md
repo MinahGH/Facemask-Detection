@@ -5,5 +5,5 @@ A whole preprocessing pipeline was made to annotate and split our images for pre
 model and find the best parameters. We have also increased our model’s performance by using data augmentation by changing the brightness, adding noise, and blurring the
 images. Also, error analysis on the experiments was performed and investigated to define the model’s weaknesses and define our next steps to be considered for future work.
 
-![plot](download.png)
+![plot](test_sample_1.png)
 ![plot](test_sample_2.png)
