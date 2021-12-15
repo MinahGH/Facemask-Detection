@@ -6,3 +6,4 @@ model and find the best parameters. We have also increased our model’s perform
 images. Also, error analysis on the experiments was performed and investigated to define the model’s weaknesses and define our next steps to be considered for future work.
 
 ![plot](download.png)
+![plot](test_sample_2.png)
