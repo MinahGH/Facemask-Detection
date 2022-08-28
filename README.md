@@ -11,4 +11,4 @@ The images varied between having single person, multiple people, close or far-aw
 
 We can see from the sample below images how our model aligns with the actual annotation of the images.
 ![plot](images/test_sample_1.png)
-![plot](test_sample_2.png)
+![plot](images/test_sample_2.png)
